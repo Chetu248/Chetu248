@@ -14,7 +14,7 @@
 ---
 
 # 🔥 About Me  
-💠 Final-year engineering student  
+💠 Pre-Final-year engineering student  
 💠 MERN stack developer building real-world apps  
 💠 Machine Learning enthusiast  
 💠 Strong DSA foundation  
