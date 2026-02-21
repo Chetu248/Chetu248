@@ -59,15 +59,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Chetu248&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Chetu248&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
----
-
 # 🔥 Streak Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Chetu248&theme=radical&hide_border=true" />
@@ -101,8 +92,4 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave3.svg" width="100%" />
-</p>
