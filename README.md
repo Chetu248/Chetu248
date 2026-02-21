@@ -19,7 +19,7 @@
 💠 Machine Learning enthusiast  
 💠 Strong DSA foundation  
 💠 Love crafting clean UI & scalable backend systems  
-💠 Gym lover & night-time coder 😄  
+💠 night-time coder 😄  
 
 ---
 
