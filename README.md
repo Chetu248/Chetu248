@@ -1,18 +1,284 @@
-# 💫 About Me:
-Hi 👋, I'm Chetan Sharma  <br>💻 Computer Science Student | MERN Stack Developer | Java Enthusiast  <br>🚀 Passionate about building scalable web applications and learning new technologies.<br>🔭 I’m currently working on: Building full-stack web applications using MERN Stack<br>👯 I’m looking to collaborate on: Open-source projects related to Web Development, Backend APIs, and MERN Stack applications.<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=CHETAN%20SHARMA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDER%20%7C%20PROBLEM%20SOLVER&descAlignY=60&descSize=17&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-sharma-38a020289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetan240805@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chetu248&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chetu248&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetu248&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### `☕ Java`   `⚙️ Spring Boot`   `🤖 AI`   `🌐 Full Stack`   `🧠 DSA`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chetu248&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/Chetu248">
+<img src="https://komarev.com/ghpvc/?username=Chetu248&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS"/>
+</a>
+
+</div>
+
+---
+
+## `$ whoami`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   👋  Hey, I'm Chetan Sharma                              │
+│                                                            │
+│   Computer Science Student                                 │
+│   Aspiring Software Engineer                               │
+│   Backend & Full-Stack Developer                           │
+│                                                            │
+│   I enjoy building real-world software, understanding      │
+│   how systems work under the hood, and turning ideas       │
+│   into applications that actually solve problems.          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+I'm currently focused on becoming a stronger **Software Development Engineer** by going deeper into backend engineering, Java/Spring Boot, system design, AI integration, and DSA.
+
+> **Build things. Understand them. Break them. Make them better.**
+
+---
+
+## ⚡ `$ current_status`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🟢 STATUS: BUILDING                                        │
+│                                                              │
+│  ☕ Backend        → Java + Spring Boot                      │
+│  🤖 AI             → LLMs + AI-powered applications         │
+│  🧠 DSA            → Algorithms + Problem Solving            │
+│  🏗️ Architecture   → APIs + Databases + System Design       │
+│  🌐 Full Stack     → React + Next.js                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧠 `$ learning_path`
+
+```text
+                    SOFTWARE ENGINEERING
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+          BACKEND           AI             DSA
+             │              │              │
+             ▼              ▼              ▼
+        Java / Spring     LLMs          Algorithms
+             │              │              │
+             ▼              ▼              ▼
+         REST APIs      AI Services     Problem Solving
+             │              │              │
+             ▼              ▼              ▼
+        Databases       Integration     Interviews
+             │              │
+             └──────────────┼──────────────┘
+                            ▼
+                    SYSTEM DESIGN
+```
+
+---
+
+# 🛠️ `$ tech_stack`
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### 🗄️ Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,prisma,firebase,gcp" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+</p>
+
+---
+
+# 🔥 `$ things_i_build`
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   ⚙️  Backend Systems                                   │
+│       REST APIs • Authentication • Business Logic        │
+│                                                          │
+│   🤖  AI Applications                                    │
+│       LLMs • AI Services • Intelligent Workflows         │
+│                                                          │
+│   🌐  Full-Stack Applications                            │
+│       React • Next.js • Node.js                          │
+│                                                          │
+│   🗄️  Database-Driven Systems                            │
+│       MySQL • Prisma • Data Modeling                      │
+│                                                          │
+│   🧠  Problem Solving                                   │
+│       DSA • Algorithms • Optimization                     │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🧩 `$ problem_solving`
+
+```text
+Arrays & Strings       ████████████████████
+Linked Lists            ██████████████████
+Stack & Queue           █████████████████
+Binary Search           ████████████████
+Trees                   ███████████████
+Graphs                  █████████████
+Recursion               ████████████
+Backtracking            ███████████
+Dynamic Programming     █████████
+```
+
+> Currently grinding DSA to become faster at solving problems and stronger at technical interviews.
+
+---
+
+# 📊 `$ github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chetu248&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetu248&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Chetu248&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 `$ contribution_activity`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Chetu248/Chetu248/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 `$ 2026.exe`
+
+```text
+[✓] Build full-stack applications
+
+[✓] Build production-style Spring Boot backends
+
+[✓] Work with REST APIs & databases
+
+[✓] Explore AI + backend integration
+
+[→] Strengthen DSA
+
+[→] Learn system design
+
+[→] Improve backend architecture
+
+[→] Contribute to open source
+
+[→] Build software people actually use
+
+[→] Become a stronger Software Engineer
+
+[ ] 🚀 Land a great SDE role
+```
+
+---
+
+# 🎮 `$ developer_mode`
+
+```text
+                 ┌─────────────────────────────┐
+                 │       DEVELOPER MODE         │
+                 ├─────────────────────────────┤
+                 │                             │
+                 │  ☕ Coffee       ██████████ │
+                 │  🧠 Curiosity    █████████░ │
+                 │  🐛 Debugging    ██████████ │
+                 │  💻 Coding       ██████████ │
+                 │  🧩 Problem Solving ████████│
+                 │  😴 Sleep        ███░░░░░░░ │
+                 │                             │
+                 └─────────────────────────────┘
+```
+
+---
+
+# 💡 `$ philosophy`
+
+```text
+        BUILD
+          ↓
+        BREAK
+          ↓
+        DEBUG
+          ↓
+      UNDERSTAND
+          ↓
+       IMPROVE
+          ↓
+        REPEAT 🔁
+```
+
+> **Don't just make it work. Understand why it works.**
+
+---
+
+# 🌐 `$ connect`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/chetan-sharma-38a020289">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:chetan240805@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Chetu248">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `⚡ BUILD • LEARN • DEBUG • REPEAT ⚡`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
