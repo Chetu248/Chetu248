@@ -186,33 +186,6 @@ Dynamic Programming     █████████
 
 ---
 
-# 🎯 `$ 2026.exe`
-
-```text
-[✓] Build full-stack applications
-
-[✓] Build production-style Spring Boot backends
-
-[✓] Work with REST APIs & databases
-
-[✓] Explore AI + backend integration
-
-[→] Strengthen DSA
-
-[→] Learn system design
-
-[→] Improve backend architecture
-
-[→] Contribute to open source
-
-[→] Build software people actually use
-
-[→] Become a stronger Software Engineer
-
-[ ] 🚀 Land a great SDE role
-```
-
----
 
 # 🎮 `$ developer_mode`
 
