@@ -58,31 +58,6 @@ I'm currently focused on becoming a stronger **Software Development Engineer** b
 
 ---
 
-# 🧠 `$ learning_path`
-
-```text
-                    SOFTWARE ENGINEERING
-                            │
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-          BACKEND           AI             DSA
-             │              │              │
-             ▼              ▼              ▼
-        Java / Spring     LLMs          Algorithms
-             │              │              │
-             ▼              ▼              ▼
-         REST APIs      AI Services     Problem Solving
-             │              │              │
-             ▼              ▼              ▼
-        Databases       Integration     Interviews
-             │              │
-             └──────────────┼──────────────┘
-                            ▼
-                    SYSTEM DESIGN
-```
-
----
-
 # 🛠️ `$ tech_stack`
 
 ### 💻 Languages
@@ -145,7 +120,7 @@ I'm currently focused on becoming a stronger **Software Development Engineer** b
 # 🧩 `$ problem_solving`
 
 ```text
-Arrays & Strings       ████████████████████
+Arrays & Strings        ████████████████████
 Linked Lists            ██████████████████
 Stack & Queue           █████████████████
 Binary Search           ████████████████
